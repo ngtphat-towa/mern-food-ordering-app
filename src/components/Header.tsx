@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import MobileNav from "./MobileNav";
-import MainNav from "./DesktopNav";
+import MainNav from "./MainNav";
 
 const Header = () => {
     const home_dir = "/";
